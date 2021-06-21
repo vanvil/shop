@@ -1,0 +1,302 @@
+.big {
+    background-image: url(img/1579284238_22-59.jpg);
+    background-repeat: repeat-y;
+    background-size: contain;
+    background-position: top center;
+    width: 100%;
+    height: 20000px;
+    position: absolute;
+    top: 0;
+}
+
+.top {
+    display: inline-block;
+    margin: auto 0;
+    width: 100%;
+    height: 466px;
+    text-align: center;
+    z-index: 2;
+    color: white;
+    font-size: 40px;
+    padding-top: 100px;
+}
+
+.logo {
+    width: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+img {
+    z-index: 2;
+}
+
+.topbut:hover,
+.button1:hover,
+.button2:hover,
+.button3:hover,
+.button4:hover,
+.button5:hover {
+    background-color: #1E90FF;
+    border: 0;
+}
+
+.card {
+    margin-top: 100px;
+    margin-left: 60px;
+    display: inline-block;
+    width: 300px;
+    height: 464px;
+}
+
+.button1 {
+    z-index: 3;
+    width: 200px;
+    height: 50px;
+    border: solid 4px #1E90FF;
+    background-color: 0;
+    background: transparent;
+    color: white;
+    font-size: 18px;
+    margin-left: 50px;
+}
+
+.button2 {
+    left: 420px;
+    top: 1040px;
+    z-index: 3;
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    border: solid 4px #1E90FF;
+    background-color: 0;
+    background: transparent;
+    color: white;
+    font-size: 18px;
+}
+
+.button3 {
+    left: 750px;
+    top: 1040px;
+    z-index: 3;
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    border: solid 4px #1E90FF;
+    background-color: 0;
+    background: transparent;
+    color: white;
+    font-size: 18px;
+}
+
+.ig {
+    width: 300px;
+    height: 464px;
+}
+
+.button4 {
+    left: 1080px;
+    top: 1040px;
+    z-index: 3;
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    border: solid 4px #1E90FF;
+    background-color: 0;
+    background: transparent;
+    color: white;
+    font-size: 18px;
+}
+
+.button5 {
+    left: 1420px;
+    top: 1040px;
+    z-index: 3;
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    border: solid 4px #1E90FF;
+    background-color: 0;
+    background: transparent;
+    color: white;
+    font-size: 18px;
+}
+
+.topmenu {
+    position: fixed;
+    height: 100px;
+    top: 0;
+    z-index: 8;
+    width: 100%;
+}
+
+.topbut {
+    width: 150px;
+    height: 70px;
+    border: solid 4px #1E90FF;
+    margin-left: 300px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+}
+
+.topp {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    display: inline-block;
+    margin: 0;
+    vertical-align: top;
+}
+
+.prok2 p {
+    color: white;
+    font-size: 40px;
+    background-color: black;
+    display: inline-block;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.pp {
+    font-size: 55px;
+    color: white;
+    text-align: center;
+}
+
+.prok1 p {
+    color: black;
+    font-size: 40px;
+    background-color: white;
+    display: inline-block;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.prok3 p {
+    color: whitesmoke;
+    font-size: 40px;
+    background-color: #fed330;
+    display: inline-block;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.kontact {
+    color: white
+}
+
+.kontact img {
+    display: inline-block;
+}
+
+.kontact p {
+    display: inline-block;
+    font-size: 25px;
+}
+
+form input {
+    display: block;
+    width: 90%;
+}
+
+.bb {
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 60px;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+
+form {
+    margin: auto;
+    text-align: center;
+}
+
+.proks li {
+    list-style-type: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #dddddd;
+    padding: 16px 0;
+}
+
+.proks p {
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.proks div {
+    display: inline-block;
+}
+
+.prok2 li {
+    font-size: 40px;
+}
+
+.prok1 li {
+    font-size: 40px;
+}
+
+.prok3 li {
+    font-size: 40px;
+}
+
+.prok2 {
+    color: white;
+    background-color: black;
+    margin: 30px;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    min-width: 300px;
+}
+
+.prok1 {
+    color: black;
+    background-color: white;
+    margin: 30px;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    min-width: 300px;
+}
+
+.prok3 {
+    color: whitesmoke;
+    background-color: #fed330;
+    margin: 30px;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    min-width: 300px;
+}
+
+.pro {
+    color: black;
+    background-color: gold;
+    padding: 32px 0;
+    font-size: 30px;
+}
+
+.stand {
+    color: blue;
+    background-color: mediumaquamarine;
+    padding: 32px 0;
+    font-size: 48px;
+}
+
+.vip {
+    color: crimson;
+    background-color: black;
+    padding: 32px 0;
+    font-size: 24px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
